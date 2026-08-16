@@ -1,0 +1,19 @@
+node_modules/
+dist/
+build/
+
+# secrets — never commit these
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env
+*.pem
+*.key
+
+# your actual data — not code
+backend/data/db/
+
+.DS_Store
+*.log
+npm-debug.log*
