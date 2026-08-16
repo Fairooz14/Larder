@@ -2,7 +2,7 @@
   <img src="./logo.png" width="220" alt="Larder logo" />
 </p>
 
-<h1 align="center">Larder</h1>
+<!-- <h1 align="center">Larder</h1> -->
 <p align="center"><em>A pantry-first recipe finder.</em></p>
 
 <p align="center">
