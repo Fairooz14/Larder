@@ -18,7 +18,6 @@
 Add what's actually in your kitchen, and find real recipes you can cook
 right now, no grocery run required.
 
-Color theme: Butter `#FFEDAB` · Cherry `#75070C` · Olive `#4F6815` · Oat `#F0E6DA`.
 
 ## What the app does
 
